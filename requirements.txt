@@ -21,3 +21,4 @@ SpeechRecognition
 markdown
 google-generativeai==0.3.2
 moviepy==1.0.3
+pydub
